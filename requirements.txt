@@ -1,4 +1,4 @@
 ipykernel>=6
 jupyterlab==4.0.2
-jupyterlab-link-share-=0.3.0
+jupyterlab-link-share==0.3.0
 jupyter-collaboration
